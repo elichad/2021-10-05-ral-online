@@ -235,6 +235,11 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+<h2>Registration</h2>
+<p>Please complete this <a href="https://cvent.me/D5aQ0q">registration form</a> using your STFC email address to register for the workshop.</p>
+
+<hr/>
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
